@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#050505"/>
+
+  <rect x="24" y="24" width="464" height="464" rx="72" 
+        stroke="#C9A06A" stroke-width="2" opacity="0.25"/>
+
+  <circle cx="256" cy="256" r="170" 
+          stroke="#C9A06A" stroke-width="1.5" opacity="0.18"/>
+
+  <text x="50%" y="54%" 
+        text-anchor="middle" 
+        fill="#EDE7DF"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="210"
+        font-weight="700"
+        letter-spacing="-10">
+    S
+  </text>
+
+  <text x="72%" y="66%" 
+        text-anchor="middle" 
+        fill="#C9A06A"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="92"
+        font-style="italic"
+        font-weight="600">
+    O
+  </text>
+</svg>
