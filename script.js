@@ -390,6 +390,11 @@ window.addEventListener("load", () => {
       date: "2026-02-27",
       file: "post2",
     },
+    {
+      title: "Building Study Planner Pro + AI Integration",
+      date: "2026-07-08",
+      file: "post3",
+    },
   ];
 
   const blogContainer = document.getElementById("blog-content");
