@@ -124,8 +124,8 @@ window.addEventListener("load", () => {
 
   // Featured repos (show badge)
   const FEATURED_REPOS = [
+    "full-stack-study-planner",
     "Pomodoro-app",
-    "study-planner-pro",
     "SkyCast-Dashboard",
     "CS-Pathfinder",
     "Frontend-Swiftcart",
@@ -173,7 +173,7 @@ window.addEventListener("load", () => {
 
     try {
       const res = await fetch(
-        `https://api.github.com/users/${USERNAME}/repos?sort=updated&per_page=100`,
+        `https://api.github.com/users/${USERNAME}/repos?sort=updated&per_page=6`,
         {
           headers: { Accept: "application/vnd.github.v3+json" },
         },
